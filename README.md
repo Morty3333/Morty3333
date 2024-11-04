@@ -4,4 +4,4 @@
 - But I can draw
 - I'm Russian cat
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=py,blender,figma,notion,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pycharm,figma,notion,obsidian)](https://skillicons.dev)
