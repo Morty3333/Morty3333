@@ -1,3 +1,10 @@
+ ##   ##   #####   ######   ######   ##  ##
+ ### ###  ##   ##   ##  ##  # ## #   ##  ##
+ #######  ##   ##   ##  ##    ##     ##  ##
+ #######  ##   ##   #####     ##      ####
+ ## # ##  ##   ##   ## ##     ##       ##
+ ##   ##  ##   ##   ##  ##    ##       ##
+ ##   ##   #####   #### ##   ####     ####
 # Hello, I'm Morty...
 # About Me
 - I'm a noob and want to learn more. Of the languages, the most I know is Python :(
